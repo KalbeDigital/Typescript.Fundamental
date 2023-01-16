@@ -1,0 +1,1 @@
+Typescript Fundamental for learning purposes
